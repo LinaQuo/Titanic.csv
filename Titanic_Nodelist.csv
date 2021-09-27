@@ -1,0 +1,7 @@
+id,name,sex,age,weight,,,,
+R,Rose,1,1,2,,,Codebuch,
+J,Jack,2,1,2,,,sex ,"1 = female, 2 = male"
+F,Fabrizio,2,1,2,,,age,"1 = young, 2 = middleage, 3 = old"
+C,Cal,2,2,2,,,weight,"1 = skinny, 2 = normal, 3 = overweight"
+Ru,Ruth,1,3,1,,,,
+M,Molly,1,3,3,,,,
